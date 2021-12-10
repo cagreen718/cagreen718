@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cg3ta
+- 👋 Hi, I’m @cagreen718
 - 👀 I’m interested in the finer things in life such as writing and storying and occationally playing video games and watching gret action flicks
 - 🌱 I’m currently learning Java but plan on setting my sights on html
 - 💞️ I’m looking to collaborate on any project you name it!
